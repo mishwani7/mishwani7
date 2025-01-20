@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abu Zar Mishwani</h1>
-<h3 align="center">A passionate web and android developer from Chitral, Pakistan</h3>
+<h3 align="center">A Passionate Web and Android Developer From Chitral, Pakistan 🇵🇰</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishwanii" alt="mishwanii" /></a> </p>
 
