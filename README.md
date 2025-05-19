@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abu Zar Mishwani</h1>
 <h3 align="center">A Passionate Web Developer, SEO Professional, and Tech Blogger from Chitral, Pakistan 🇵🇰</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishwanii" alt="mishwanii" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishwanii" alt="mishwani7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itsabuzarr" target="blank"><img src="https://img.shields.io/twitter/follow/itsabuzarr?logo=twitter&style=for-the-badge" alt="itsabuzarr" /></a> </p>
 
