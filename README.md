@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Abu Zar Mishwani</h1>
-<h3 align="center">Software Engineer | Tech Entrepreneur | Blogger</h3>
-
 - 🧑‍💻 Founder & CEO at [HindukushSoft Technologies Pvt. Ltd.](https://www.hindukushsoft.com)
 - 📚 Blogger at [TechABU](https://techabu.co)
 - 🌐 Creator of [Spot Web Tools](https://app.techabu.co) – 190+ Free Online Tools
