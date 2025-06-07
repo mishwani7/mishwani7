@@ -1,7 +1,7 @@
 - 🧑‍💻 Founder & CEO at [HindukushSoft Technologies Pvt. Ltd.](https://www.hindukushsoft.com)
 - 📚 Blogger at [TechABU](https://techabu.co)
 - 🌐 Creator of [Spot Web Tools](https://app.techabu.co) – 190+ Free Online Tools
-- 📱 Developer of [GPA Calculator & Planner](https://play.google.com/store/apps/details?id=com.techabu.gpacalculator)
+- 📱 Developer of [GPA Calculator & Planner](https://play.google.com/store/apps/details?id=advc.calc.easygpacalculator)
 - 🎓 BS Computer Science, University of Chitral (2020–2024)
 - 🔗 Biography: [mishwani.is-a.dev](https://mishwani.is-a.dev)
 
