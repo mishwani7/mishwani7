@@ -6,7 +6,7 @@
 - 🔗 Biography: [mishwani.is-a.dev](https://mishwani.is-a.dev)
 
 ### 🛠️ Skills & Tools
-HTML • CSS • JavaScript • React • PHP • Laravel • WordPress • SEO • Firebase • MySQL • Git • Figma
+HTML • CSS • JavaScript • React • PHP • Laravel • Kotlin • Java • Tailwind CSS • Bootstrap • WordPress • SEO • Elementor • Firebase • MySQL • Git • Figma
 
 ### 📫 Connect with Me
 [Facebook](https://www.facebook.com/abuzar.mishwani) | [Twitter](https://twitter.com/itsabuzarr) | [LinkedIn](https://linkedin.com/in/mishwani7) | [Instagram](https://instagram.com/mishwani7)
